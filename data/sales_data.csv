@@ -1,0 +1,41 @@
+order_id,customer_id,customer_name,age,gender,category,product,quantity,unit_price,total_amount,order_date,region,payment_method
+ORD001,C0021,Sophie Martin,34,F,Electronics,Laptop Pro 15,1,1199.99,1199.99,2024-01-03,Paris,Credit Card
+ORD002,C0045,Karim Benali,28,M,Clothing,Winter Jacket,2,89.99,179.98,2024-01-04,Casablanca,PayPal
+ORD003,C0012,Emma Dupont,41,F,Home,Coffee Machine,1,129.50,129.50,2024-01-05,Lyon,Credit Card
+ORD004,C0078,Youssef Alami,23,M,Electronics,Wireless Earbuds,1,79.99,79.99,2024-01-06,Rabat,Credit Card
+ORD005,C0033,Marie Leclerc,55,F,Beauty,Skincare Set,3,45.00,135.00,2024-01-07,Paris,PayPal
+ORD006,C0021,Sophie Martin,34,F,Clothing,Running Shoes,1,149.99,149.99,2024-01-10,Paris,Credit Card
+ORD007,C0091,Ahmed Tazi,31,M,Home,Stand Desk,1,599.00,599.00,2024-01-11,Casablanca,Bank Transfer
+ORD008,C0056,Julie Bernard,26,F,Electronics,Tablet S8,1,449.99,449.99,2024-01-12,Marseille,Credit Card
+ORD009,C0045,Karim Benali,28,M,Sports,Gym Bag,1,55.00,55.00,2024-01-13,Casablanca,PayPal
+ORD010,C0102,Nadia Ziani,37,F,Beauty,Perfume,2,85.00,170.00,2024-01-14,Rabat,Credit Card
+ORD011,C0033,Marie Leclerc,55,F,Home,Air Purifier,1,210.00,210.00,2024-01-17,Paris,Credit Card
+ORD012,C0067,Pierre Morel,44,M,Electronics,Smart Watch,1,299.99,299.99,2024-01-18,Bordeaux,PayPal
+ORD013,C0078,Youssef Alami,23,M,Clothing,Casual T-Shirt,3,24.99,74.97,2024-01-19,Rabat,Credit Card
+ORD014,C0021,Sophie Martin,34,F,Sports,Yoga Mat,1,39.99,39.99,2024-01-20,Paris,PayPal
+ORD015,C0115,Hassan Ouali,48,M,Electronics,Laptop Pro 15,1,1199.99,1199.99,2024-01-21,Casablanca,Bank Transfer
+ORD016,C0056,Julie Bernard,26,F,Beauty,Nail Polish Set,2,18.50,37.00,2024-02-01,Marseille,Credit Card
+ORD017,C0033,Marie Leclerc,55,F,Clothing,Wool Coat,1,189.00,189.00,2024-02-02,Paris,Credit Card
+ORD018,C0091,Ahmed Tazi,31,M,Electronics,Gaming Mouse,1,69.99,69.99,2024-02-03,Casablanca,PayPal
+ORD019,C0102,Nadia Ziani,37,F,Home,Desk Lamp,2,35.00,70.00,2024-02-05,Rabat,Credit Card
+ORD020,C0129,Fatima Kabbaj,29,F,Electronics,Wireless Earbuds,1,79.99,79.99,2024-02-07,Marrakech,Credit Card
+ORD021,C0067,Pierre Morel,44,M,Sports,Cycling Helmet,1,119.99,119.99,2024-02-08,Bordeaux,Credit Card
+ORD022,C0045,Karim Benali,28,M,Home,Coffee Machine,1,129.50,129.50,2024-02-09,Casablanca,Bank Transfer
+ORD023,C0012,Emma Dupont,41,F,Electronics,Smart Watch,1,299.99,299.99,2024-02-11,Lyon,Credit Card
+ORD024,C0021,Sophie Martin,34,F,Beauty,Skincare Set,2,45.00,90.00,2024-02-12,Paris,PayPal
+ORD025,C0115,Hassan Ouali,48,M,Sports,Running Shoes,1,149.99,149.99,2024-02-14,Casablanca,Credit Card
+ORD026,C0129,Fatima Kabbaj,29,F,Clothing,Summer Dress,2,65.00,130.00,2024-02-15,Marrakech,Credit Card
+ORD027,C0078,Youssef Alami,23,M,Electronics,Gaming Mouse,2,69.99,139.98,2024-02-17,Rabat,PayPal
+ORD028,C0033,Marie Leclerc,55,F,Home,Air Purifier,1,210.00,210.00,2024-02-18,Paris,Credit Card
+ORD029,C0056,Julie Bernard,26,F,Clothing,Running Shoes,1,149.99,149.99,2024-02-20,Marseille,Credit Card
+ORD030,C0102,Nadia Ziani,37,F,Electronics,Tablet S8,1,449.99,449.99,2024-02-21,Rabat,Credit Card
+ORD031,C0091,Ahmed Tazi,31,M,Home,Stand Desk,1,599.00,599.00,2024-03-01,Casablanca,Bank Transfer
+ORD032,C0021,Sophie Martin,34,F,Electronics,Smart Watch,1,299.99,299.99,2024-03-03,Paris,Credit Card
+ORD033,C0067,Pierre Morel,44,M,Electronics,Laptop Pro 15,1,1199.99,1199.99,2024-03-04,Bordeaux,Credit Card
+ORD034,C0115,Hassan Ouali,48,M,Home,Coffee Machine,2,129.50,259.00,2024-03-06,Casablanca,PayPal
+ORD035,C0129,Fatima Kabbaj,29,F,Sports,Gym Bag,2,55.00,110.00,2024-03-07,Marrakech,Credit Card
+ORD036,C0012,Emma Dupont,41,F,Beauty,Perfume,1,85.00,85.00,2024-03-08,Lyon,Credit Card
+ORD037,C0045,Karim Benali,28,M,Electronics,Wireless Earbuds,2,79.99,159.98,2024-03-10,Casablanca,Credit Card
+ORD038,C0033,Marie Leclerc,55,F,Clothing,Wool Coat,1,189.00,189.00,2024-03-11,Paris,PayPal
+ORD039,C0078,Youssef Alami,23,M,Sports,Cycling Helmet,1,119.99,119.99,2024-03-12,Rabat,Credit Card
+ORD040,C0102,Nadia Ziani,37,F,Clothing,Summer Dress,3,65.00,195.00,2024-03-14,Rabat,Credit Card
