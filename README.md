@@ -1,4 +1,5 @@
 # retail-sales-analysis
+![Tests](https://github.com/Imaneimy/retail-sales-analysis/actions/workflows/tests.yml/badge.svg)
 
 This project started as a Power BI dashboard I built to analyze retail sales across France and Morocco — tracking revenue trends, category performance, and customer segments. I've since rebuilt it in Python so it's reproducible, testable, and easier to extend.
 
